@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+}
+ 
+.hero{
+    background-color: rgb(197, 196, 196);
+    background-image: url("../Images/ed19ee3f83e62c9cb67031d178c32a8f.jpg");
+    background-repeat: no-repeat;
+    color: rgb(235, 19, 19);
+
+    padding-top: 100px;
+    padding-bottom: 500px;
+}
+
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
